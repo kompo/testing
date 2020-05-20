@@ -1,0 +1,27 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Kompo
+@import 'vue-kompo/sass/bootstrap-style';
+
+@import "tailwindcss/base";
+h1 {
+	@apply text-3xl;
+}
+h2 {
+  	@apply text-2xl;
+}
+h3 {
+  	@apply text-xl;
+}
+h4 {
+  	@apply text-lg;
+}
+@import "tailwindcss/components";
+
+/*@import 'components';*/
+
+@import "tailwindcss/utilities";
