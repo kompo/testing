@@ -12,8 +12,8 @@
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^1.0",
         "guzzlehttp/guzzle": "^6.3",
-        "kompophp/kompo": "dev-master",
-        "kompophp/library": "dev-master",
+        "kompo/kompo": "dev-master",
+        "kompo/library": "dev-master",
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
         "spatie/laravel-permission": "^3.11"
