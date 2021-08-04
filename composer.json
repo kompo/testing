@@ -8,17 +8,15 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.2.5",
+        "php": "^7.2.5|^8.0",
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^1.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "kompo/kompo": "dev-master",
         "kompo/library": "dev-master",
-        "kompo/livewire": "dev-master",
         "laravel/framework": "^8.0",
         "laravel/legacy-factories": "^1.1",
         "laravel/tinker": "^2.0",
-        "livewire/livewire": "dev-master",
         "spatie/laravel-permission": "^3.11"
     },
     "require-dev": {
@@ -72,10 +70,6 @@
         "kompo": {
             "type": "path",
             "url": "../packages/*"
-        },
-        "livewire": {
-            "type": "path",
-            "url": "../packages/livewire/*"
         }
     }
 }
