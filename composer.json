@@ -13,7 +13,6 @@
         "fruitcake/laravel-cors": "^1.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "kompo/kompo": "dev-master",
-        "kompo/library": "dev-master",
         "laravel/framework": "^8.0",
         "laravel/legacy-factories": "^1.1",
         "laravel/tinker": "^2.0",
